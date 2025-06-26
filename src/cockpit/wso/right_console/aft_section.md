@@ -25,7 +25,7 @@ system.
 | Position | Description                                                                                                                      |
 |----------|----------------------------------------------------------------------------------------------------------------------------------|
 | OFF      | System powered down.                                                                                                             |
-| STBY     | System is powered but the latitude and longitude position integration is off.                                                    |
+| STBY     | System is powered, but the latitude and longitude position integration is off.                                                    |
 | TARGET 1 | Computes range and bearing to the selected coordinates set on the TARGET rollers.                                                |
 | TARGET 2 | Computes range and bearing to the memorized coordinates.                                                                         |
 | RESET    | Clears the memorized coordinates. When moved back to TARGET 2, the selected coordinates set on the TARGET rollers are memorized. |
@@ -72,7 +72,7 @@ memorize TARGET 2 coordinates (after the RESET position has been selected).
 
 ![Position Update Switch](../../../img/wso_nav_panel_pos_update_switch.jpg)
 
-A three position switch (<num>7</num>) to set the position updating.
+A three-position switch (<num>7</num>) to set the position updating.
 
 | Position | Description                                                                                                                   |
 |----------|-------------------------------------------------------------------------------------------------------------------------------|
@@ -146,8 +146,7 @@ providing general lighting for the consoles. Three settings are available: DIM, 
 
 ### Warning Light Test Switch
 
-The Warning Light Test Switch (<num>7</num>) if set to the TEST position, confirms function of
-the various emergency indicators in the cockpit.
+The Warning Light Test Switch (<num>7</num>), if set to the TEST position, confirms the operation of the various emergency indicators in the cockpit.
 
 ### Instrument Panel Knob
 
@@ -166,4 +165,4 @@ of the canopy bow.
 ### Console Knob
 
 The Console Light Control Knob (<num>1</num>), with range from OFF to BRT, controls the
-illumination level for the left and right console.
+illumination level for the left and right consoles.
