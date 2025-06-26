@@ -9,8 +9,7 @@ The right wall has auxiliary switches for testing and starting the aircraft.
 The manual unlock
 handle is used in the event of [pneumatic system](../../../systems/pneumatics.md) failure.
 
-The handle, when pulled aft, unlocks the canopy so that it may be pushed open. Before manual
-unlocking of the canopy, the normal control lever must be placed in the OPEN position.
+The handle, when pulled aft, unlocks the canopy, allowing it to be pushed open. Before manually unlocking the canopy, the normal control lever must be placed in the OPEN position.
 
 For normal operation, the handle should be left in the forward position.
 
@@ -46,5 +45,5 @@ In the TEST position (<num>3</num>), connects external electrical power to the i
 switches being set to EXT ON.
 
 This can be used during a cold-start after applying ground power and before starting the engines,
-to already setup the aircraft and operate some systems that require
+to already set up the aircraft and operate some systems that require
 power on these buses.
